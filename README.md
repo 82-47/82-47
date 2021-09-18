@@ -1,20 +1,23 @@
-#### About
+#### About me
+Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - GMT+8, student, artist
 - mainly self-taught
 
-#### Contact
+#### Contact me
 - email: adriennechansl@gmail.com
 
 #### Active projects
-- teal - a discord bot i'm using to experiment
+- teal - a Discord bot I'm using to experiment with what I can do
+- aradia - a Discord I'm planning to use to learn discord.js
 
-#### Projects i'm not actively working on
-- botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [discord server](https://discord.gg/mcsD7kS)
-- threegigabot - a telegram bot for pictures of the school cat 
+#### Projects I'm not actively working on right now
+- botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
+- threegigabot - a Telegram bot for pictures of the school cat, Teddy
+- copernicusbot - a Twitter bot to experiment with the API
 
-#### Planned projects
-- [ ] twitter bot  
-- [ ] html/css sites
+#### Planned 
+- [ ] get started on learning discord.js
+- [ ] relearn frontend/backend
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=midnight-purple&count_private=true&border_radius=5)
