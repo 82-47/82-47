@@ -7,7 +7,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - email: adriennechansl@gmail.com
 
 #### Active projects
-- teal - a Discord bot I'm using to experiment with what I can do
+- teal - a Discord bot I'm using to experiment with what I can do with discord.py
 - aradia - a Discord I'm planning to use to learn discord.js
 
 #### Projects I'm not actively working on right now
@@ -16,8 +16,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - copernicusbot - a Twitter bot to experiment with the API
 
 #### Planned 
-- [ ] get started on learning discord.js
-- [ ] relearn frontend/backend
+- [ ] relearn site frontend/backend
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=midnight-purple&count_private=true&border_radius=5)
