@@ -8,7 +8,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 
 #### Active projects
 - teal - a Discord bot I'm using to experiment with what I can do with discord.py
-- aradia - a Discord bot I'm planning to use to learn discord.js
+- aqua - a Discord bot I'm using to learn discord.js
 
 #### Projects I'm not actively working on right now
 - botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
