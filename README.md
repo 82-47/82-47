@@ -10,8 +10,10 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - teal - a Discord bot I'm using to experiment with what I can do with discord.py
 - aqua - a Discord bot I'm using to learn discord.js
 
-#### Projects I'm not actively working on right now
+#### Pretty much done so I'm leaving it
 - botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
+
+#### On the back burner for now
 - threegigabot - a Telegram bot for pictures of the school cat, Teddy
 - copernicusbot - a Twitter bot to experiment with the API
 
