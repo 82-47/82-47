@@ -21,7 +21,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - [ ] relearn site frontend/backend
 
 #### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=reacte&count_private=true&border_radius=5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=react&count_private=true&border_radius=5)
 
 
 <!-- 
