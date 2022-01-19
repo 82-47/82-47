@@ -21,11 +21,11 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - [ ] relearn site frontend/backend
 
 #### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=midnight-purple&count_private=true&border_radius=5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=reacte&count_private=true&border_radius=5)
 
 
 <!-- 
 ### unused resources
 #### anurag's top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=82-47&layout=compact&theme=midnight-purple&count_private=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=82-47&layout=compact&theme=react&count_private=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 -->
