@@ -7,7 +7,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 - email: adriennechansl@gmail.com
 
 #### Active projects
-- None, or at least until I get out of JC 
+- None, for now at least
 
 #### Pretty much done so I'm leaving it
 - botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
