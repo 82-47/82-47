@@ -1,7 +1,5 @@
 #### About me
-Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
-- GMT+8, student, artist
-- mainly self-taught
+Hi! I'm Adrienne, a student based in Singapore, and I'm learning how to code. 
 
 #### Contact me
 - email: adriennechansl@gmail.com
@@ -9,7 +7,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 #### Active projects
 - None, for now at least
 
-#### Pretty much done so I'm leaving it
+#### Completed projects
 - botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
 
 #### On the back burner for now
@@ -20,6 +18,7 @@ Hi! I'm Adrienne, a student, and I code sometimes for personal projects.
 
 #### Planned 
 - [ ] relearn site frontend/backend
+- [ ] relearn discord.py and try making a bot from scratch
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=react&count_private=true&border_radius=5)
