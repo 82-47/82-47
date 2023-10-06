@@ -1,11 +1,14 @@
 #### About me
-Hi! I'm Adrienne, a student based in Singapore, and I'm learning how to code. 
+Hi! I'm Adrienne, a university student based in Singapore, and I make things as I learn how to code. 
 
 #### Contact me
 - email: adriennechansl@gmail.com
 
-#### Active projects
-- None, for now at least
+#### Active(ish) projects
+- lucian - an experimental discord.py bot to play with the API (and slash commands), and further hone my Python skill
+
+#### Upcoming projects
+- a Telegram bot for bulk food orders
 
 #### Completed projects
 - botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
@@ -13,7 +16,6 @@ Hi! I'm Adrienne, a student based in Singapore, and I'm learning how to code.
 #### On the back burner for now
 - teal - a Discord bot to experiment with what I can do with discord.py
 - aqua - a Discord bot to learn discord.js
-- threegigabot - a Telegram bot for pictures of the school cat, Teddy
 - copernicusbot - a Twitter bot to experiment with the API
 
 #### Planned 
