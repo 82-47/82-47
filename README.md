@@ -5,7 +5,7 @@ Hi! I'm Adrienne, a university student based in Singapore, and I make things as 
 - email: adriennechansl@gmail.com
 
 #### Active(ish) projects
-- lucian - an experimental discord.py bot to play with the API (and slash commands), and further hone my Python skill
+- lucian - an experimental discord.py bot to play with the API, relearn discord.py, and further hone my Python skill in general
 
 #### Upcoming projects
 - a Telegram bot for bulk food orders
@@ -14,13 +14,10 @@ Hi! I'm Adrienne, a university student based in Singapore, and I make things as 
 - botpointpigeon - a bot for [@gradepointpigeon](https://www.instagram.com/gradepointpigeon/)'s [Discord server](https://discord.gg/mcsD7kS)
 
 #### On the back burner for now
-- teal - a Discord bot to experiment with what I can do with discord.py
 - aqua - a Discord bot to learn discord.js
-- copernicusbot - a Twitter bot to experiment with the API
 
 #### Planned 
 - [ ] relearn site frontend/backend
-- [ ] relearn discord.py and try making a bot from scratch
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=82-47&show_icons=true&theme=react&count_private=true&border_radius=5)
